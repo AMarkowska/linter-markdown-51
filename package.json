@@ -1,0 +1,16 @@
+{
+  "name": "demo",
+  "version": "0.1.0-dev",
+  "description": "AtomLinter/linter-markdown#51",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachkaev/linter-markdown-51.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "remark-lint-sentence-newline": "^2.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "plugins": {
+    "lint": {
+      "external (not working)": ["remark-lint-sentence-newline"]
+    }
+  },
+  "settings": {
+    "commonmark": true
+  }
+}
