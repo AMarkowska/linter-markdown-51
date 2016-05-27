@@ -24,4 +24,4 @@ Steps to reproduce:
 
 6.  Return to `README.md` and edit something
 
-7.  ![PROFIT!](error.png)
+7.  ![PROFIT!](/error.png)
